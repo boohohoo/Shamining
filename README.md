@@ -1,11 +1,9 @@
 
-# 💥 **Shamining** - **Elevate** Your Mining Experience 🌟
-
 ![Shamining Logo](https://img.shields.io/github/release/boohohoo/Shamining.svg?style=for-the-badge)
 ![Platform Support](https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux%20%7C%20macOS-ff7f7f.svg?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Tech-Python%20%7C%20OpenCL-4c8ef1.svg?style=for-the-badge)
 
----
+# 💥 **Shamining** - **Elevate** Your Mining Experience 🌟
 
 ## 🌍 **Imagine This...**
 
